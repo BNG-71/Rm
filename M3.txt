@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/384.1.0.29.111;FBPN/com.facebook.katana;FBLC/en_US;FBBV/316818200;FBCR/Orange;FBMF/Google;FBBD/Pixel;FBDV/G020M;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1360};FB_FW/1;FBRV/0;]
