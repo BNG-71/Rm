@@ -1,1 +1,1 @@
-
+[FBAN/FB4A;FBAV/386.0.0.35.108;FBPN/com.facebook.katana;FBLC/en_US;FBBV/317217654;FBCR/China Mobile;FBMF/LG;FBBD/LG;FBDV/LM-G900V;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.0,width=720,height=1360};FB_FW/1;FBRV/0;]
